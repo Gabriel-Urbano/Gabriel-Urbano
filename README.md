@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, me chamo Gabriel Urbano! 
+## Bem vindo ao meu perfil GitHub
 
-<!--
-**Gabriel-Urbano/Gabriel-Urbano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Se formando em Análise e Desenvolvimento de Sistemas pela Fatec. Estudando com foco em análise de dados.
 
-Here are some ideas to get you started:
+## Ferramentas e Tecnologias
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="60" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" width="60" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="60" height="50"/>
+          
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Urbano&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Contatos:
+<div>
+<a href="https://www.linkedin.com/in/gabriel-urbano-de-souza-ferreira-9b0947200/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
