@@ -1,7 +1,6 @@
-# Olá, me chamo Gabriel Urbano! 
-## Bem vindo ao meu perfil GitHub
+# Olá, me chamo Gabriel Urbano! 👋
 
-### Se formando em Análise e Desenvolvimento de Sistemas pela Fatec. Estudando com foco em análise de dados.
+### Me formando em Análise e Desenvolvimento de Sistemas pela Fatec. Estudando com foco em análise de dados.
 
 ## Ferramentas e Tecnologias
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="60" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" width="60" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="60" height="50"/>
